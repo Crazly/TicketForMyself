@@ -1,0 +1,4 @@
+.classpath
+.project
+/WebRoot/WEB-INF/classes/*
+.idea
